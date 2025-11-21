@@ -9,7 +9,11 @@
 
 데이터로 유저 행동을 이해하고, 이를 토대로 최상의 경험을 제공하는 서비스를 만들어가고자 합니다. 
 
-**Let's be Comm-nected!**
+Let's be Comm-nected!
+
+
+
+
 
 
 ## 📬 Contacts
